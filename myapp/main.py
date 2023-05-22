@@ -63,7 +63,7 @@ class MainApp(MDApp):
     for i in cursor.fetchall():
         print(i[0], i[1])
     
-    print ("conexion ok")
+    print ("conexion  ok")
     
     
     
